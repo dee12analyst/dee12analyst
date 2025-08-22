@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Deepa  
 
-<!--
-**dee12analyst/dee12analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 *Data Analyst | Aspiring to join top tech companies | Lifelong Learner*  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: *Data Analysis Projects*  
+- 🌱 Learning: *Advanced SQL, Python for Data Science, Power BI*  
+- 🎯 Goal: *To join a big company like Google and grow in Analytics*  
+- 🌍 Dream: *Explore the world and open a café someday*  
+- ☕ Fun fact: I love experimenting with *coffee & cooking recipes*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech & Tools  
+- *Languages:* Python, SQL,
+- *Visualization:* Power BI, Tableau  
+- *Databases:* SQL server
+- *Other Tools:* Excel, GitHub  
+
+---
+
+## 📊 Featured Projects  
+- 📈 *Sales Dashboard* → Interactive visualization using Power BI  
+- 🔍 *Customer Segmentation* → Data clustering with Python  
+- 📊 *Trend Analysis* → SQL + Python insights  
+
+---
+
+## 📫 Connect with Me  
+https://www.linkedin.com/in/deepa-thakur-04b551260
+
+---
+
+✨ “Data tells stories, I just decode them.”
