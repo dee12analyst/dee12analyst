@@ -1,29 +1,22 @@
-# Hi there 👋, I'm Deepa  
+# Hi, I'm Deepa 👋  
 
-💻 *Data Analyst | Aspiring to join top tech companies | Lifelong Learner*  
+🚀 *Aspiring Data Analyst | Problem Solver | Continuous Learner*  
 
-- 🔭 Currently working on: *Data Analysis Projects*  
-- 🌱 Learning: *Advanced SQL, Python for Data Science, Power BI*  
-- 🎯 Goal: *To join a big company like Google and grow in Analytics*  
-- 🌍 Dream: *Explore the world and open a café someday*  
-- ☕ Fun fact: I love experimenting with *coffee & cooking recipes*  
+### 🌟 About Me
+- 📊 Passionate about uncovering insights from data  
+- 🐍 Skilled in *Python, SQL, Excel*  
+- 📈 Exploring *Data Visualization (Power BI / Tableau)*  
+- ✨ Love experimenting with projects and sharing knowledge  
 
----
+### 💻 Tech & Tools
+- Python | SQL | Excel  
+- Power BI | Tableau  
+- GitHub
 
-## 🛠️ Tech & Tools  
-- *Languages:* Python, SQL,
-- *Visualization:* Power BI, Tableau  
-- *Databases:* SQL server
-- *Other Tools:* Excel, GitHub  
-
----
-
-## 📊 Featured Projects  
-- 📈 *Sales Dashboard* → Interactive visualization using Power BI  
-- 🔍 *Customer Segmentation* → Data clustering with Python  
-- 📊 *Trend Analysis* → SQL + Python insights  
-
----
+### 🌱 Currently Working On
+- Building data analytics projects  
+- Preparing for roles in top companies (like Google 🚀)  
+⭐️ From [Deepa](https://github.com/dee12analyst)
 
 ## 📫 Connect with Me  
 https://www.linkedin.com/in/deepa-thakur-04b551260
